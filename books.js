@@ -1,4 +1,8 @@
+function renderBooks() {
+  console.log('renderBooks()')
+}
 
+renderBooks();
 
 // FAKE DATA
 function getBooks() {
